@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Gawade</h1>
-<h3 align="center">A passionate Junior Data Analyst from India</h3>
+<h3 align="center">Junior Data Analyst | Passionate about Data and Insights
+
+Welcome to my GitHub profile! I'm a Junior Data Analyst with expertise in data analysis, visualization, and database management. I enjoy uncovering actionable insights through data and building interactive dashboards.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=221020&label=Profile%20views&color=0e75b6&style=flat" alt="221020" /> </p>
 
