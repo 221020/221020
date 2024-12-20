@@ -1,5 +1,5 @@
 ![logo](https://github.com/221020/221020/blob/main/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
-<h1 align="center">Hi 👋, I'm Sanket Gawade</h1>
+ <h1 align="center">Hi 👋, I'm Sanket Gawade</h1>
 <h3 align="center">Junior Data Analyst | Passionate about Data and Insights Welcome to my GitHub profile! I'm a Junior Data Analyst with expertise in data analysis, visualization, and database management. I enjoy uncovering actionable insights through data and building interactive dashboards.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=221020&label=Profile%20views&color=0e75b6&style=flat" alt="221020" /> </p>
@@ -21,7 +21,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/sanket-gawade-590104235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sanket-gawade-590104235" height="30" width="40" /></a>
-<a href="https://instagram.com/sanket__2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket__2210" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gawadesanket2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gawadesanket2210" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/sanket___2210/profilecard/?igsh=mtfzemvvodrkchc2dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sanket___2210/profilecard/?igsh=mtfzemvvodrkchc2dw==" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/http://www.youtube.com/@sanketgawade1960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@sanketgawade1960" height="30" width="40" /></a>
+<a href="https://discord.gg/6891750221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6891750221" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
